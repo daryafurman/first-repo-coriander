@@ -1,6 +1,6 @@
 # Learning GitHub and Markdown(.md)
 First repo coriander
-https://www.markdownguide.org/basic-syntax/ ()
+Markdown syntax (https://www.markdownguide.org/basic-syntax/)
 
 ##List
 
