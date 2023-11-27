@@ -26,5 +26,5 @@ We can add `line` of code name
 
 ##Block line
 ```js
-let cohort = ´Coriander´
+let cohort = ´Coriander´;
 ```
